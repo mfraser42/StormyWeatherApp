@@ -1,6 +1,5 @@
 package com.crimson.stormy.weather;
 
-import com.crimson.stormy.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

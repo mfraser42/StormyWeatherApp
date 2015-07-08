@@ -10,7 +10,6 @@ import android.widget.TextView;
 import com.crimson.stormy.R;
 import com.crimson.stormy.weather.Hour;
 
-import org.w3c.dom.Text;
 
 public class HourAdapter extends RecyclerView.Adapter<HourAdapter.HourViewHolder>{
 
